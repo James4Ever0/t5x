@@ -1,5 +1,7 @@
 # T5X
 
+original talk is [here](https://www.alignmentforum.org/posts/t9svvNPNmFf5Qa3TA/mysteries-of-mode-collapse-due-to-rlhf).
+
 T5X is a modular, composable, research-friendly framework for high-performance,
 configurable, self-service training, evaluation, and inference of sequence
 models (starting with language) at many scales.
